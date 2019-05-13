@@ -29,7 +29,7 @@ for(name in stooge)
 
 var s;
 alert(s);
-s="hello pp!";
+s="hello wwwwwwwwwwwwwwwwpppppppppppppppppppp!";
 //s.prototype
 //document.writeln("length:"+s.length);
 //s.len=11;
